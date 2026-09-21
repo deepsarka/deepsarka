@@ -88,14 +88,10 @@ I'm a **data-driven 2025 graduate** who builds Power BI dashboards, structures 1
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/deepsarka/personalized-ai-memory-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepsarka&repo=personalized-ai-memory-system&theme=tokyonight&hide_border=true" alt="Personalized AI Memory System"/>
-</a>
-<a href="https://github.com/deepsarka/olist-ecommerce-sales-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepsarka&repo=olist-ecommerce-sales-analytics&theme=tokyonight&hide_border=true" alt="Olist E-Commerce Sales Analytics"/>
-</a>
-</div>
+| Project | Stack | Highlights | Links |
+|:--|:--|:--|:--|
+| 🧠 **Personalized AI Memory System** | Python · FastAPI · SQLite · MCP · ChromaDB · Neo4j | Temporal fact store, 5 typed MCP tools, governance controls | [Repo](https://github.com/deepsarka/personalized-ai-memory-system) · [Deploy](https://github.com/deepsarka/backend-deploy) |
+| 🛒 **Olist E-Commerce Sales Analytics** | Python · PostgreSQL · Power BI | 100K+ records, 3-page dashboard, 5 top performers, 10 bottlenecks | [Repo](https://github.com/deepsarka/olist-ecommerce-sales-analytics) |
 
 ### 🧠 Personalized AI Memory System &nbsp;[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/deepsarka/personalized-ai-memory-system) [![Deploy](https://img.shields.io/badge/Live-Deploy-2ea44f?style=flat-square)](https://github.com/deepsarka/backend-deploy)
 
@@ -192,20 +188,17 @@ timeline
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=deepsarka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsarka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=deepsarka&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
+<br/><br/>
+
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepsarka&theme=tokyonight" alt="Profile details"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepsarka&theme=tokyonight" alt="GitHub stats"/>
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsarka&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepsarka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepsarka&theme=tokyonight" alt="Repos per language"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepsarka&theme=tokyonight" alt="Most commit language"/>
 
 </div>
 
