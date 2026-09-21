@@ -1,52 +1,121 @@
-<h1 align="center">Hi 👋, I'm Deep Sarkar</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst • Business Intelligence • Python • SQL • Power BI • AI Engineering
-</h3>
+# 👋 Hi, I'm Deep Sarkar
 
-<p align="center">
+### 📊 Data Analyst | Business Intelligence | Python | SQL | Power BI | AI Engineering
+
+<p>
+  <em>Turning raw data into reliable analytics, actionable insights, and intelligent systems.</em>
+</p>
+
+<p>
   <a href="https://github.com/deepsarka">
     <img src="https://komarev.com/ghpvc/?username=deepsarka&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/deepsarka?tab=followers">
-    <img src="https://img.shields.io/github/followers/deepsarka?label=FOLLOWERS&style=for-the-badge" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/deepsarka?label=FOLLOWERS&style=for-the-badge" alt="Followers"/>
   </a>
   <a href="https://github.com/deepsarka?tab=repositories">
-    <img src="https://img.shields.io/github/stars/deepsarka?label=STARS&style=for-the-badge" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/deepsarka?label=STARS&style=for-the-badge" alt="Stars"/>
   </a>
 </p>
 
-<p align="center">
-  <i>Turning raw data into reliable analytics, actionable insights, and intelligent systems.</i>
-</p>
+</div>
+
+---
+
+# 📊 Data Analyst Dashboard
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 100K+
+
+**Records**
+
+Raw e-commerce data analyzed
+
+</td>
+
+<td align="center" width="25%">
+
+### 9K+
+
+**Transactions**
+
+Processed for analytics
+
+</td>
+
+<td align="center" width="25%">
+
+### 3 Pages
+
+**Power BI**
+
+Business intelligence dashboard
+
+</td>
+
+<td align="center" width="25%">
+
+### 5
+
+**MCP Tools**
+
+AI memory system
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Data Analyst** with hands-on experience in:
+I'm a **Data Analyst** focused on transforming raw data into structured information, dashboards, and business insights.
 
-- 📊 Power BI & Business Intelligence
-- 🐍 Python & data processing
-- 🗄️ SQL & PostgreSQL
-- 🔄 ETL & analytics pipelines
-- 📈 Data visualization & dashboard development
-- 🤖 GenAI, LLM & RAG applications
-- 🧠 AI memory and semantic retrieval systems
+My primary areas are:
 
-I enjoy working across the complete data lifecycle:
+- 📊 **Data Analytics**
+- 📈 **Power BI & Business Intelligence**
+- 🐍 **Python & Pandas**
+- 🗄️ **SQL & PostgreSQL**
+- 🔄 **ETL & Data Pipelines**
+- 📉 **Data Visualization**
+- 🤖 **Generative AI**
+- 🧠 **LLM / RAG Applications**
+- 🔎 **Semantic Retrieval**
+- ⚙️ **AI Engineering**
+
+I enjoy working on projects where the complete journey matters:
 
 ```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-ETL / Transformation
-   ↓
-SQL / Data Modeling
-   ↓
-Power BI / Visualization
-   ↓
-Business Insights
-   ↓
-Decision Making
+                 BUSINESS QUESTION
+                         │
+                         ▼
+                    RAW DATA
+                         │
+                         ▼
+                DATA COLLECTION
+                         │
+                         ▼
+              CLEANING & TRANSFORMATION
+                         │
+                         ▼
+                  SQL / DATABASE
+                         │
+                         ▼
+                  DATA MODELING
+                         │
+                         ▼
+                  POWER BI / BI
+                         │
+                         ▼
+                  VISUALIZATION
+                         │
+                         ▼
+                BUSINESS INSIGHTS
