@@ -1,41 +1,160 @@
 <h1 align="center">Hi 👋, I'm Deep Sarkar</h1>
-<h3 align="center">Turning data into insights, and insights into impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsarka&label=Profile%20views&color=0e75b6&style=flat" alt="deepsarka" /> </p>
+<h3 align="center">
+Data Analyst • Business Intelligence • Python • SQL • Power BI • AI Engineering
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepsarka" alt="deepsarka" /></a> </p>
-
-- 🔭 I’m currently working on [Spotify AI memory system](https://github.com/deepsarka/backend-deploy)
-
-- 🌱 I’m currently learning **AI Engineering**
-
-- 👯 I’m looking to collaborate on [personalized Ai memory system](https://github.com/deepsarka/personalized-ai-memory-system)
-
-- 🤝 I’m looking for help with [personalized Ai memory system](https://github.com/deepsarka/personalized-ai-memory-system)
-
-- 👨‍💻 All of my projects are available at [https://github.com/deepsarka](https://github.com/deepsarka)
-
-- 📝 I regularly write articles on [www.linkedin.com/in/deep-sarkar-280775201](www.linkedin.com/in/deep-sarkar-280775201)
-
-- 💬 Ask me about **Python, SQL, Power BI and data visualization , GenAI , LLM , RAG**
-
-- 📫 How to reach me **deepkumarjsr18@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fUQPHM3MKCnkAtQCt4czxVH3jy_cPzTY/view?usp=sharing](https://drive.google.com/file/d/1fUQPHM3MKCnkAtQCt4czxVH3jy_cPzTY/view?usp=sharing)
-
-- ⚡ Fun fact **I believe every dataset has a story waiting to be told**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deep sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep sarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/d_sarkar_ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_sarkar_ram" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/deepsarka">
+    <img src="https://komarev.com/ghpvc/?username=deepsarka&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/deepsarka?tab=followers">
+    <img src="https://img.shields.io/github/followers/deepsarka?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <em>Turning raw data into reliable analytics, actionable insights, and intelligent systems.</em>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsarka&show_icons=true&locale=en&layout=compact" alt="deepsarka" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepsarka&show_icons=true&locale=en" alt="deepsarka" /></p>
+## 📊 Data Analyst at a Glance
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsarka&" alt="deepsarka" /></p>
+<table align="center">
+<tr>
+<td align="center" width="180">
+<h2>100K+</h2>
+<p>Records Analyzed</p>
+</td>
+
+<td align="center" width="180">
+<h2>9K+</h2>
+<p>Transactions Analyzed</p>
+</td>
+
+<td align="center" width="180">
+<h2>3,000+</h2>
+<p>Daily Outreach Emails</p>
+</td>
+
+<td align="center" width="180">
+<h2>5+</h2>
+<p>AI Memory Tools</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Data Analyst** with hands-on experience in **Python, SQL, Power BI, PostgreSQL, ETL, business intelligence, and data visualization**.
+
+My work focuses on turning large and messy datasets into structured analytics pipelines and decision-ready dashboards.
+
+I also work on **AI Engineering and GenAI systems**, particularly memory, retrieval, RAG, and intelligent data workflows.
+
+### What I work with
+
+* 📈 **Data Analytics & BI** — Power BI, Excel, reporting, KPI analysis
+* 🐍 **Python** — data processing, automation, analytics pipelines
+* 🗄️ **SQL & Databases** — PostgreSQL, relational database design
+* 🔄 **ETL** — data extraction, transformation, validation and loading
+* 🤖 **AI Engineering** — GenAI, LLM applications, RAG and AI memory
+* 📊 **Business Analysis** — trend analysis, variance analysis, requirements analysis
+* 🔍 **Data Visualization** — dashboards designed around business questions
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Olist E-Commerce Sales Analytics
+
+**Python → PostgreSQL → Power BI**
+
+Built an end-to-end analytics pipeline using **100K+ e-commerce order records**, transforming raw data into a structured analytical dataset and business intelligence dashboard.
+
+**Key work:**
+
+* Processed and structured **100K+ raw records**
+* Built an analytics pipeline using **Python → PostgreSQL → Power BI**
+* Created a **3-page Power BI dashboard**
+* Analyzed revenue and category trends
+* Evaluated product and seller performance
+* Analyzed delivery performance and customer satisfaction
+* Identified **5 top-performing categories/sellers**
+* Identified **10 delivery bottlenecks**
+
+🔗 **[View Project on GitHub](https://github.com/deepsarka/personalized-ai-memory-system)**
+
+---
+
+### 🧠 Personalized AI Memory System
+
+**FastAPI • Python • SQL • RAG • SentenceTransformers • ChromaDB • Neo4j • MCP**
+
+A governed AI memory system designed to allow an AI assistant to remember, retrieve, correct and manage user preferences across sessions.
+
+**Architecture:**
+
+```text
+User Interaction
+       ↓
+Event / Intent Extraction
+       ↓
+Temporal Memory Store
+       ↓
+Fact Validation & Governance
+       ↓
+Semantic Retrieval
+       ↓
+Context Injection
+       ↓
+AI Assistant Response
+```
+
+**Key capabilities:**
+
+* Temporal fact storage
+* Preference correction without blindly overwriting historical information
+* Semantic retrieval
+* Context injection
+* FastAPI service architecture
+* MCP tool interface
+* Memory governance controls
+* Data export and cascading deletion
+* Pause-memory and pause-personalization controls
+* SentenceTransformers + ChromaDB semantic retrieval
+* Neo4j adapter for graph-based memory
+
+🔗 **[View Project](https://github.com/deepsarka/personalized-ai-memory-system)**
+
+---
+
+## 🧰 Technical Stack
+
+### 📊 Data & Business Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-0F766E?style=for-the-badge"/>
+</p>
+
+### 🐍 Programming & Data Processing
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases & Data Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img
